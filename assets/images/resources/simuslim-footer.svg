@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="919.65485"
+   height="250"
+   viewBox="0 0 243.32535 66.145834"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="simuslim-footer.svg"
+   inkscape:export-filename="/home/bae/simuslim-footer.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="258.34874"
+     inkscape:cy="100.46364"
+     inkscape:document-units="px"
+     inkscape:current-layer="g856"
+     showgrid="false"
+     showborder="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.162294,-29.835837)">
+    <g
+       id="g153"
+       style="fill:#80b3ff">
+      <g
+         id="g135"
+         style="fill:#80b3ff">
+        <g
+           id="g195">
+          <g
+             transform="translate(1.416461,2.3139635)"
+             inkscape:export-ydpi="96"
+             inkscape:export-xdpi="96"
+             id="g856">
+            <g
+               id="g241"
+               transform="matrix(6.6666689,0,0,5.4332689,-192.7959,-415.25415)">
+              <g
+                 style="fill:#0055d4"
+                 id="g74">
+                <rect
+                   style="fill:#0055d4;stroke-width:0.26458332"
+                   id="rect60"
+                   width="0.92604166"
+                   height="9.5249996"
+                   x="34.131248"
+                   y="84.142708" />
+                <rect
+                   y="-44.05312"
+                   x="92.741669"
+                   height="9.5249996"
+                   width="0.92604166"
+                   id="rect62"
+                   style="fill:#0055d4;stroke-width:0.26458332"
+                   transform="rotate(90)" />
+                <rect
+                   transform="rotate(90)"
+                   style="fill:#0055d4;stroke-width:0.26458332"
+                   id="rect64"
+                   width="0.92604166"
+                   height="9.5249996"
+                   x="84.142708"
+                   y="-44.05312" />
+              </g>
+              <g
+                 style="fill:#0055d4"
+                 transform="matrix(0.7399999,0,0,0.66666675,10.163972,29.635062)"
+                 id="g108">
+                <rect
+                   y="84.142708"
+                   x="34.131248"
+                   height="9.5249996"
+                   width="0.92604166"
+                   id="rect102"
+                   style="fill:#0055d4;stroke-width:0.26458332" />
+                <rect
+                   transform="rotate(90)"
+                   style="fill:#0055d4;stroke-width:0.26458332"
+                   id="rect104"
+                   width="0.92604166"
+                   height="9.5249996"
+                   x="92.741669"
+                   y="-44.05312" />
+                <rect
+                   y="-44.05312"
+                   x="84.142708"
+                   height="9.5249996"
+                   width="0.92604166"
+                   id="rect106"
+                   style="fill:#0055d4;stroke-width:0.26458332"
+                   transform="rotate(90)" />
+              </g>
+              <g
+                 style="fill:#0066ff"
+                 id="g116"
+                 transform="matrix(0.40163999,0,0,0.44864893,22.862033,49.017981)">
+                <rect
+                   style="fill:#0066ff;stroke-width:0.26458332"
+                   id="rect110"
+                   width="0.92604166"
+                   height="9.5249996"
+                   x="34.131248"
+                   y="84.142708" />
+                <rect
+                   y="-44.05312"
+                   x="92.741669"
+                   height="9.5249996"
+                   width="0.92604166"
+                   id="rect112"
+                   style="fill:#0066ff;stroke-width:0.26458332"
+                   transform="rotate(90)" />
+                <rect
+                   transform="rotate(90)"
+                   style="fill:#0066ff;stroke-width:0.26458332"
+                   id="rect114"
+                   width="0.92604166"
+                   height="9.5249996"
+                   x="84.142708"
+                   y="-44.05312" />
+              </g>
+              <path
+                 style="fill:#0044aa;stroke-width:0.38350496"
+                 d="m 39.090651,81.493486 c -1.336041,0.0021 -2.580412,0.999274 -3.305758,2.649222 1.962356,-2.158324 4.067886,-3.042375 6.614583,0 -0.725936,-1.651291 -1.971694,-2.648711 -3.308825,-2.649222 z"
+                 id="path155"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cccc" />
+              <path
+                 sodipodi:nodetypes="cccc"
+                 inkscape:connector-curvature="0"
+                 id="path176"
+                 d="m 34.792401,83.348958 c -0.267208,6e-4 -0.516083,0.299399 -0.661152,0.79375 0.392471,-0.646669 0.813577,-0.911545 1.322917,0 -0.145187,-0.494753 -0.394339,-0.793596 -0.661765,-0.79375 z"
+                 style="fill:#0044aa;stroke-width:0.09387904" />
+              <path
+                 style="fill:#0044aa;stroke-width:0.09387904"
+                 d="m 43.391355,83.348958 c -0.267208,6e-4 -0.516083,0.299399 -0.661152,0.79375 0.392471,-0.646669 0.813577,-0.911545 1.322917,0 -0.145187,-0.494753 -0.394339,-0.793596 -0.661765,-0.79375 z"
+                 id="path178"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cccc" />
+              <path
+                 style="fill:#0044aa;stroke-width:0.0663825"
+                 d="m 34.792401,83.348958 c -0.133604,6e-4 -0.258042,0.299399 -0.330576,0.79375 0.196235,-0.646669 0.406788,-0.911545 0.661458,0 -0.07259,-0.494753 -0.197169,-0.793596 -0.330882,-0.79375 z"
+                 id="path201"
+                 inkscape:connector-curvature="0"
+                 sodipodi:nodetypes="cccc" />
+              <path
+                 sodipodi:nodetypes="cccc"
+                 inkscape:connector-curvature="0"
+                 id="path203"
+                 d="m 43.391355,83.348958 c -0.133604,6e-4 -0.258042,0.299399 -0.330576,0.79375 0.196235,-0.646669 0.406788,-0.911545 0.661458,0 -0.07259,-0.494753 -0.197169,-0.793596 -0.330882,-0.79375 z"
+                 style="fill:#0044aa;stroke-width:0.0663825" />
+            </g>
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-weight:normal;font-size:52.91666794px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.32291675"
+               x="116.32913"
+               y="79.48455"
+               id="text31"><tspan
+                 sodipodi:role="line"
+                 id="tspan29"
+                 x="116.32913"
+                 y="79.48455"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.74999809px;font-family:'Noto Sans Javanese';-inkscape-font-specification:'Noto Sans Javanese, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:1.32291675">SI MUSLIM</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
